@@ -1,0 +1,25 @@
+.card {
+    width: 100%;
+    margin: 4% 3%;
+    border: 3px solid darkolivegreen;
+    padding: 3%;
+  }
+.cardContainer{
+    width: 100%;
+}
+.cardBody{
+    display: flex;
+    flex-direction: row;
+    justify-items: baseline;
+    align-content: space-evenly;
+    align-items: baseline
+}
+.cardElement{
+    margin: 1.9%;
+}
+.cardElement span{
+    font-weight: 900;
+}
+.personName{
+    font-size: 2.1rem;
+}
